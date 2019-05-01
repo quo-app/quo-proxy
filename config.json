@@ -2,7 +2,7 @@
   "routes": [
     {
       "route": "/editor",
-      "address": "http://localhost:3000"
+      "address": "http://editor:3000"
     },
     {
       "route": "/projects",
